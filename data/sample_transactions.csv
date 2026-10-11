@@ -1,0 +1,117 @@
+Date,Description,Amount,Type,Payment_Method,Party
+01-08-2026,Grocery sales,42300,Income,Cash,Walk-in customers
+01-08-2026,Paid shop rent,60000,Expense,Bank,Landlord
+01-08-2026,Delivery van charges,4126,Expense,Cash,Transporter
+02-08-2026,Daily retail sales,49600,Income,Cash,Walk-in customers
+03-08-2026,Grocery sales,41700,Income,Bank,Walk-in customers
+03-08-2026,Petrol for delivery bike,6233,Expense,Cash,Petrol pump
+04-08-2026,Daily retail sales,73700,Income,Cash,Walk-in customers
+05-08-2026,Daily retail sales,37000,Income,Cash,Walk-in customers
+05-08-2026,Purchased stock from Hayat Wholesale,75200,Expense,Bank,Hayat Wholesale
+06-08-2026,Grocery sales,74500,Income,Cash,Walk-in customers
+07-08-2026,Received payment from XYZ Traders,57600,Income,Bank,XYZ Traders
+08-08-2026,Grocery sales,70700,Income,Cash,Walk-in customers
+08-08-2026,Delivery van charges,3902,Expense,Cash,Transporter
+09-08-2026,Cash sales - counter,73600,Income,Cash,Walk-in customers
+09-08-2026,Paid supplier Hayat Wholesale,89700,Expense,Bank,Hayat Wholesale
+10-08-2026,Daily retail sales,80800,Income,Cash,Walk-in customers
+10-08-2026,Paid electricity bill - PESCO,12393,Expense,Bank,PESCO
+10-08-2026,Petrol for delivery bike,5138,Expense,Cash,Petrol pump
+11-08-2026,Daily retail sales,49100,Income,Cash,Walk-in customers
+12-08-2026,Daily retail sales,41100,Income,Cash,Walk-in customers
+12-08-2026,Paid internet bill - PTCL,3500,Expense,Bank,PTCL
+12-08-2026,Purchased stock from Hayat Wholesale,83500,Expense,Bank,Hayat Wholesale
+13-08-2026,Cash sales - counter,74600,Income,Cash,Walk-in customers
+15-08-2026,Daily retail sales,82800,Income,Cash,Walk-in customers
+15-08-2026,Facebook ads payment,10196,Expense,Bank,Meta
+15-08-2026,Delivery van charges,3511,Expense,Cash,Transporter
+16-08-2026,Cash sales - counter,40200,Income,Bank,Walk-in customers
+17-08-2026,Cash sales - counter,89400,Income,Bank,Walk-in customers
+17-08-2026,Petrol for delivery bike,5481,Expense,Cash,Petrol pump
+18-08-2026,Grocery sales,47600,Income,Bank,Walk-in customers
+18-08-2026,Home delivery service charges,16100,Income,Cash,Customers
+19-08-2026,Daily retail sales,78300,Income,Cash,Walk-in customers
+19-08-2026,Purchased stock from Peshawar Foods,65200,Expense,Bank,Peshawar Foods
+20-08-2026,Daily retail sales,91800,Income,Cash,Walk-in customers
+20-08-2026,Received payment from Khan Brothers,33200,Income,Bank,Khan Brothers
+22-08-2026,Cash sales - counter,76700,Income,Cash,Walk-in customers
+22-08-2026,Delivery van charges,3666,Expense,Cash,Transporter
+23-08-2026,Cash sales - counter,58300,Income,Cash,Walk-in customers
+23-08-2026,Paid supplier Kohat Distributors,57500,Expense,Bank,Kohat Distributors
+24-08-2026,Grocery sales,79800,Income,Bank,Walk-in customers
+24-08-2026,Petrol for delivery bike,4292,Expense,Cash,Petrol pump
+25-08-2026,Grocery sales,76600,Income,Cash,Walk-in customers
+25-08-2026,Bank service charges,673,Expense,Bank,Bank
+26-08-2026,Grocery sales,51000,Income,Cash,Walk-in customers
+26-08-2026,Purchased stock from Peshawar Foods,84900,Expense,Bank,Peshawar Foods
+27-08-2026,Cash sales - counter,76900,Income,Bank,Walk-in customers
+28-08-2026,Paid monthly salaries to staff,135000,Expense,Bank,Staff
+29-08-2026,Grocery sales,49400,Income,Bank,Walk-in customers
+29-08-2026,Delivery van charges,4328,Expense,Cash,Transporter
+30-08-2026,Daily retail sales,50000,Income,Cash,Walk-in customers
+31-08-2026,Cash sales - counter,61300,Income,Cash,Walk-in customers
+31-08-2026,Petrol for delivery bike,4271,Expense,Cash,Petrol pump
+01-09-2026,Daily retail sales,94800,Income,Bank,Walk-in customers
+01-09-2026,Paid shop rent,60000,Expense,Bank,Landlord
+02-09-2026,Grocery sales,55600,Income,Cash,Walk-in customers
+02-09-2026,Purchased stock from Kohat Distributors,92700,Expense,Bank,Kohat Distributors
+03-09-2026,Cash sales - counter,93000,Income,Bank,Walk-in customers
+05-09-2026,Cash sales - counter,44400,Income,Cash,Walk-in customers
+05-09-2026,Delivery van charges,3571,Expense,Cash,Transporter
+06-09-2026,Daily retail sales,83800,Income,Bank,Walk-in customers
+07-09-2026,Grocery sales,52200,Income,Bank,Walk-in customers
+07-09-2026,Received payment from Khan Brothers,53200,Income,Bank,Khan Brothers
+07-09-2026,Petrol for delivery bike,5635,Expense,Cash,Petrol pump
+08-09-2026,Cash sales - counter,49400,Income,Cash,Walk-in customers
+09-09-2026,Grocery sales,67300,Income,Cash,Walk-in customers
+09-09-2026,Paid supplier Hayat Wholesale,47200,Expense,Bank,Hayat Wholesale
+09-09-2026,Purchased stock from Hayat Wholesale,101100,Expense,Bank,Hayat Wholesale
+10-09-2026,Daily retail sales,86900,Income,Bank,Walk-in customers
+10-09-2026,Paid electricity bill - PESCO,12729,Expense,Bank,PESCO
+12-09-2026,Grocery sales,39200,Income,Cash,Walk-in customers
+12-09-2026,Paid internet bill - PTCL,3500,Expense,Bank,PTCL
+12-09-2026,Delivery van charges,4563,Expense,Cash,Transporter
+13-09-2026,Grocery sales,65700,Income,Bank,Walk-in customers
+14-09-2026,Cash sales - counter,71300,Income,Cash,Walk-in customers
+14-09-2026,Petrol for delivery bike,4469,Expense,Cash,Petrol pump
+15-09-2026,Grocery sales,93000,Income,Bank,Walk-in customers
+15-09-2026,Facebook ads payment,11075,Expense,Bank,Meta
+16-09-2026,Cash sales - counter,85400,Income,Bank,Walk-in customers
+16-09-2026,Purchased stock from Peshawar Foods,67300,Expense,Bank,Peshawar Foods
+17-09-2026,Cash sales - counter,63500,Income,Cash,Walk-in customers
+18-09-2026,Home delivery service charges,22400,Income,Cash,Customers
+19-09-2026,Daily retail sales,82300,Income,Bank,Walk-in customers
+19-09-2026,Delivery van charges,4078,Expense,Cash,Transporter
+20-09-2026,Grocery sales,84900,Income,Cash,Walk-in customers
+20-09-2026,Received payment from ABC Store,56000,Income,Bank,ABC Store
+21-09-2026,Cash sales - counter,90200,Income,Bank,Walk-in customers
+21-09-2026,Petrol for delivery bike,6079,Expense,Cash,Petrol pump
+22-09-2026,Grocery sales,48000,Income,Cash,Walk-in customers
+23-09-2026,Cash sales - counter,85000,Income,Cash,Walk-in customers
+23-09-2026,Paid supplier Kohat Distributors,74800,Expense,Bank,Kohat Distributors
+23-09-2026,Purchased stock from Hayat Wholesale,99300,Expense,Bank,Hayat Wholesale
+24-09-2026,Cash sales - counter,67000,Income,Cash,Walk-in customers
+25-09-2026,Bank service charges,457,Expense,Bank,Bank
+26-09-2026,Cash sales - counter,92600,Income,Cash,Walk-in customers
+26-09-2026,Delivery van charges,3980,Expense,Cash,Transporter
+27-09-2026,Daily retail sales,50800,Income,Bank,Walk-in customers
+28-09-2026,Daily retail sales,40600,Income,Bank,Walk-in customers
+28-09-2026,Paid monthly salaries to staff,135000,Expense,Bank,Staff
+28-09-2026,Petrol for delivery bike,5990,Expense,Cash,Petrol pump
+29-09-2026,Daily retail sales,84800,Income,Bank,Walk-in customers
+30-09-2026,Daily retail sales,43400,Income,Bank,Walk-in customers
+30-09-2026,Purchased stock from Peshawar Foods,96000,Expense,Bank,Peshawar Foods
+01-10-2026,Daily retail sales,52400,Income,Bank,Walk-in customers
+01-10-2026,Paid shop rent,60000,Expense,Bank,Landlord
+03-10-2026,Grocery sales,62700,Income,Cash,Walk-in customers
+03-10-2026,Delivery van charges,5208,Expense,Cash,Transporter
+04-10-2026,Grocery sales,80200,Income,Cash,Walk-in customers
+05-10-2026,Grocery sales,55400,Income,Cash,Walk-in customers
+05-10-2026,Petrol for delivery bike,5529,Expense,Cash,Petrol pump
+18-09-2026,Transport charges - delivery van hire,180000,Expense,Cash,Transporter
+14-09-2026,Facebook ad campaign,150000,Expense,Bank,Meta
+25-09-2026,Miscellaneous payment,500000,Expense,Cash,
+30-09-2026,Bulk order sale,450000,Income,Bank,Khan Brothers
+10-09-2026,Paid electricity bill - PESCO,12729,Expense,Bank,PESCO
+01-08-2026,Grocery sales,42300,Income,Cash,Walk-in customers
+03-08-2026,Petrol for delivery bike,6233,Expense,Cash,Petrol pump
